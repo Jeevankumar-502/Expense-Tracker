@@ -1,16 +1,24 @@
-## Hi there 👋
+# Spending Tracker
 
-<!--
-**Jeevankumar-502/Jeevankumar-502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple web-based application to track your daily expenses.
 
-Here are some ideas to get you started:
+## Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Add expenses with description and amount
+- View total spent
+- Delete expenses
+- Data persists in browser's local storage
+
+## How to Use
+
+1. Open `index.html` in your web browser.
+2. Enter a description and amount for your expense.
+3. Click "Add Expense" to add it to the list.
+4. View the total at the top.
+5. Click "Delete" next to any expense to remove it.
+
+## Files
+
+- `index.html`: The main HTML structure
+- `style.css`: Styling for the application
+- `script.js`: JavaScript functionality
